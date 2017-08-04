@@ -33,6 +33,7 @@ height:100px;
 <option value="Option2">Option2</option>
 <option value="Option3">Option3</option>
 <option value="Option4">Option4</option>
+<option value="Option5">Option5</option>
 </select>
 <button>Display</button>
 </body>
